@@ -1,6 +1,11 @@
 ---
 layout: default
 title: Home
+permalink: /
+show_photo: true
+photo_path: /assets/img/headshot.jpg
+photo_alt: "David Matias"
+photo_caption: "Photo (optional caption)."
 ---
 
 # Edilberto David Matias Garcia
@@ -18,7 +23,7 @@ Here is a link to my **CV**:
 ## Contact
 
 <div class="kv">
-  <div>Email</div><span>ematias@colmex.mx</span>
+  <div>Email</div><span>davidmatias@rice.edu </span>
 </div>
 
 
@@ -26,4 +31,4 @@ Here is a link to my **CV**:
 
 ## Links
 
-- LinkedIn: add your profile link here
+- [LinkedIn](www.linkedin.com/in/david-matiasg)   
