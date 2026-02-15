@@ -1,66 +1,87 @@
 ---
 layout: default
 title: Research
+permalink: /research/
 ---
 
 # Research
 
-Below, you will find my writing organized by publication type and year. For questions on any specific publication, feel free to message me.
+Below is my writing organized by type and year. For questions on any publication, feel free to email me.
 
 ---
 
-## Working Papers
+## Working papers
 
 ### 2025
 
-- **Powering Through Drought: The Impact of Water Scarcity on Electricity Generation.**  
-  with Jose Belmar, Lenin Balza, and Lisa Bagnoli  
-  Link: add URL
+- **Powering Through Drought: The Impact of Water Scarcity on Electricity Generation**  
+  José Belmar, Lenin Balza, Lisa Bagnoli, and David Matias. (2025). *Working paper.*  
+  DOI: 10.18235/0013848 — [Publication page](http://dx.doi.org/10.18235/0013848)
 
-- **The Transition to Renewables: Dampening the Impact of Fossil Fuel Price Shocks on Local Inflation.**  
-  (Resources Policy Journal)  
-  with Michelle Carvalho Hallack and Magdalena Cornejo  
-  Presentations: 9th Latin American Energy Economics Meeting (ELAEE)  
-  Link: add URL
+- **The role of renewables in smoothing the impact of oil and gas price shocks on inflation: The LAC experience**  
+  Magdalena Cornejo, Michelle Carvalho Hallack, and David Matias. (2025). *Resources Policy, 105*, 105577.  
+  DOI: 10.1016/j.resourpol.2025.105577 — [Publication page](https://doi.org/10.1016/j.resourpol.2025.105577)  
+  _Presented at:_ 9th Latin American Energy Economics Meeting (ELAEE)
+
+  <details>
+  <summary><span class="muted">Abstract & keywords</span></summary>
+
+  **Abstract.** This paper examines whether renewable electricity adoption mitigates the pass-through of international fossil fuel price shocks to inflation in Latin America and the Caribbean (LAC). Using data for 18 LAC countries (2005–2021), we find that higher renewable shares reduce the transmission of oil price shocks to both energy inflation and overall inflation, highlighting an additional macroeconomic externality of renewable investment.
+
+  **Keywords:** Pass-through; Inflation; Structural VAR; Local projections; Fossil fuel prices; Electricity mix
+  </details>
+
+### 2024
+
+- **Green or Growth? Understanding the Relationship between Economic Growth and CO₂ Emissions**  
+  Lenin Balza, Ariel Yépez García, Laura Heras, and David Matias. (2024). *Working paper.*  
+  DOI: 10.18235/0012943 — [Publication page](http://dx.doi.org/10.18235/0012943)
+
+---
+
+## Policy papers & reports
+
+### 2025
 
 - **From Risk to Reliability: Resilient Infrastructure Services to Face Nature's Challenges**  
-  Link: add URL  
+  (2025). *Policy report.*  
+  DOI: 10.18235/0013769 — [Publication page](http://dx.doi.org/10.18235/0013769)  
   _Contributed research support (not listed as an author)._
 
 ### 2024
 
-- **Economics of Electricity Losses in Latin America and the Caribbean. Chapters 5 and 6.**  
-  with Ariel Yepez Garcia and Raul Jimenez Mori  
-  Link: add URL
+- **Economics of Electricity Losses in Latin America and the Caribbean (Chapters 5–6)**  
+  Ariel Yépez García, Raúl Jiménez Mori, and David Matias. (2024). *Report (book chapters).*  
+  [Publication page](https://publications.iadb.org/en/economics-electricity-losses-latin-america-and-caribbean)
 
 - **Navigating the Energy Transition in Latin America and the Caribbean: Price Volatility and Signaling in Short-Term Electricity Markets**  
-  with Lenin Balza, Ricardo Rios-Zalapa, and Carlos Mata  
-  Link: add URL
-
-- **Green or Growth? Understanding the Relationship between Economic Growth and CO2 Emissions**  
-  with Lenin Balza, Ariel Yepez Garcia, and Laura Heras  
-  Link: add URL
+  Lenin Balza, Ricardo Ríos-Zalapa, Carlos Mata, and David Matias. (2024). *Policy paper.*  
+  DOI: 10.18235/0013200 — [Publication page](http://dx.doi.org/10.18235/0013200)
 
 ### 2022
 
-- **The impact of extreme weather events on agricultural prices: evidence from grain and legume wholesale markets in Mexico**  
-  Link: add URL
+- **The impact of extreme weather events on agricultural prices: Evidence from grain and legume wholesale markets in Mexico**  
+  David Matias. (2022). *Working paper / report.*  
+  [Link forthcoming](#)
 
 - **Performance of Electricity Distribution Companies in Latin America and the Caribbean: The Role of Governance and Management**  
-  with Jose Eguiguren-Cosmelli, Karla Arias, Mariana Weiss, Yuri Dalto, and Michelle Carvalho Hallack  
-  Link: add URL
+  José Eguiguren-Cosmelli, Karla Arias, Mariana Weiss, Yuri Daltro, Michelle Carvalho Hallack, and David Matias. (2022). *Report.*  
+  [Link forthcoming](#)
 
-- **Measuring the Efficiency in Energy Distribution Firms in LAC: A Service Provision and Financial Performance Approach**  
-  (Journal of Applied Economics)  
-  with Karla Arias, Segundo Camino-Mogro, Mariana Weiss, Yuri Dalto, Franco Carvajal, and Michelle Carvalho Hallack  
-  Link: add URL
+---
+
+## Journal publications
+
+- **Measuring the efficiency of energy distribution firms in the LAC region: A service provision and financial performance approach**  
+  Karla Arias, Segundo Camino-Mogro, Mariana Weiss, Yuri Daltro, Franco Carvajal, Michelle Carvalho Hallack, and David Matias. (2025). *Journal of Applied Economics, 28*(1).  
+  DOI: 10.1080/15140326.2025.2568248 — [Publication page](https://doi.org/10.1080/15140326.2025.2568248)
+
+---
+
+## Other writing
 
 ### 2019
 
-- **The Sustainability of Mexican Public Debt (2000–2024)**  
-  Honorable Mention in the National Public Finance Award  
-  Link: add URL
-
 - **A Behavioral approach to industrial organization**  
-  COFECE Essay Award, third edition, Federal Economic Competition Commission, pp. 77–83  
-  Link: add URL
+  David Matias. (2019). In *COFECE Essay Award (3rd ed.)*, Federal Economic Competition Commission, pp. 77–83.  
+  [PDF / publication](https://www.cofece.mx/wp-content/uploads/2019/11/RevistaPENSY-141119.pdf)
