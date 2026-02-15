@@ -16,7 +16,9 @@ I am a PhD Student in Economics at [Rice University](https://www.rice.edu/) and 
 Prior to my doctoral studies, I worked for three years at the [Inter-American Development Bank](https://www.iadb.org/en)  as an energy economist. I also hold a Master’s in Economics from [El Colegio de México (COLMEX)](https://www.colmex.mx/) and a Bachelor’s degree from the [Universidad Nacional Autónoma de México (UNAM)](https://www.unam.mx/) . 
 
 Here is a link to my **CV**:  
-- **CV (PDF):** `assets/cv.pdf` (add your PDF to the repo at that path)
+- **CV (PDF):** `assets/cv2026.pdf`
+
+<a href="/assets/cv2026.pdf" target="_blank" rel="noopener">Curriculum Vitae (PDF)</a>
 
 ---
 
