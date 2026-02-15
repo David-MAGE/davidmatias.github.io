@@ -32,4 +32,4 @@ Here is a link to my **CV**:
 
 ## Links
 
-- [LinkedIn](www.linkedin.com/in/david-matiasg)   
+- [LinkedIn](https://www.linkedin.com/in/david-matiasg)   
