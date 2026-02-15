@@ -162,3 +162,15 @@ small, .muted{ color: var(--muted); }
   }
 }
 
+.post-list{
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+.post-item{
+  padding: 12px 0;
+  border-bottom: 1px solid var(--rule);
+}
+.post-item a{
+  font-weight: 500;
+}
