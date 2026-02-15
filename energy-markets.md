@@ -13,7 +13,7 @@ My opinions are my own.
 ## Posts
 
 <ul class="post-list">
-  {% assign posts = site.electricity_posts | sort: "date" | reverse %}
+  {% assign posts = site.energy_posts | sort: "date" | reverse %}
   {% for post in posts %}
     <li class="post-item">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -26,5 +26,5 @@ My opinions are my own.
 </ul>
 
 <p class="muted" style="margin-top:18px;">
-  To add a new post, create a file in <code>_electricity_posts/</code>.
+  To add a new post, create a file in <code>_energy_posts/</code>.
 </p>
