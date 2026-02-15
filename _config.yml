@@ -2,4 +2,8 @@ title: "David Matias"
 description: "Economics consultant | Energy & Environmental Economics"
 markdown: kramdown
 permalink: pretty
-timezone: America/Chicago
+
+collections:
+  electricity_posts:
+    output: true
+    permalink: /electricity-markets/:name/
