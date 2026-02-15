@@ -1,5 +1,5 @@
 ---
-layout: electricity_post
+layout: energy_post
 title: "Why nodal pricing matters (quick intuition)"
 date: 2026-02-15
 tags: [market-design, nodal-pricing]
