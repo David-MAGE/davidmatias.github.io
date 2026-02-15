@@ -174,3 +174,63 @@ small, .muted{ color: var(--muted); }
 .post-item a{
   font-weight: 500;
 }
+
+/* ---------- Blog post typography (normal webpage look) ---------- */
+
+.post{
+  margin-top: 8px;
+}
+
+.post-back{
+  margin: 0 0 18px;
+  font-size: 14px;
+}
+
+.post-header{
+  margin-bottom: 14px;
+}
+
+.post-title{
+  font-family: "EB Garamond", Georgia, serif;
+  font-weight: 600;
+  font-size: 34px;         /* smaller than site-wide h1 */
+  line-height: 1.1;
+  margin: 0 0 6px;
+}
+
+.post-meta{
+  margin: 0;
+  color: var(--muted);
+  font-size: 13.5px;
+}
+
+/* readable text column */
+.prose{
+  max-width: 72ch;
+  font-size: 16.5px;
+  line-height: 1.7;
+}
+
+/* headings inside posts */
+.prose h1{ font-size: 30px; margin-top: 28px; }
+.prose h2{ font-size: 21px; margin-top: 26px; }
+.prose h3{ font-size: 18px; margin-top: 22px; }
+
+.prose p{ margin: 12px 0; }
+.prose ul, .prose ol{ margin: 12px 0; padding-left: 22px; }
+.prose li{ margin: 6px 0; }
+
+/* nicer horizontal rule */
+.prose hr{
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: 22px 0;
+}
+
+/* optional: nicer blockquotes */
+.prose blockquote{
+  margin: 16px 0;
+  padding-left: 14px;
+  border-left: 3px solid var(--rule);
+  color: var(--muted);
+}
