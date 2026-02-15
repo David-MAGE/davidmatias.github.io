@@ -26,7 +26,7 @@ Below is my writing organized by type and year. For questions on any publication
   <details>
   <summary><span class="muted">Abstract</span></summary>
 
-  **Abstract.** This paper examines whether renewable electricity adoption mitigates the pass-through of international fossil fuel price shocks to inflation in Latin America and the Caribbean (LAC). Using data for 18 LAC countries (2005–2021), we find that higher renewable shares reduce the transmission of oil price shocks to both energy inflation and overall inflation, highlighting an additional macroeconomic externality of renewable investment.
+  This paper examines whether renewable electricity adoption mitigates the pass-through of international fossil fuel price shocks to inflation in Latin America and the Caribbean (LAC). Using data for 18 LAC countries (2005–2021), we find that higher renewable shares reduce the transmission of oil price shocks to both energy inflation and overall inflation, highlighting an additional macroeconomic externality of renewable investment.
   </details>
 
 - **Measuring the efficiency of energy distribution firms in the LAC region: A service provision and financial performance approach**  
