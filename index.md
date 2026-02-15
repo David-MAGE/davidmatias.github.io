@@ -5,7 +5,6 @@ permalink: /
 show_photo: true
 photo_path: /assets/img/headshot.jpg
 photo_alt: "David Matias"
-photo_caption: "Photo (optional caption)."
 ---
 
 #  David Matias-Garcia
