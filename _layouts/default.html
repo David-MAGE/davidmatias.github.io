@@ -33,7 +33,7 @@
     </header>
 
     <main class="wrap">
-      <article class="page">
+      <article class="page {% if page.show_photo %}with-photo{% else %}no-photo{% endif %}">
         {% if page.show_photo %}
           <aside class="home-photo">
             <img
