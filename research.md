@@ -138,4 +138,6 @@ Below is my writing organized by type and year. For questions on any publication
 
 ### Rice University
 
-- **Teaching Assistant — ECON 611: Geopolitics of Energy** (Prof. Jim Krane), Summer 2026.
+**Teaching Assistant**
+- ECON 611: Geopolitics of Energy (Graduate Course), Prof. Jim Krane — Summer 2026
+- ECON 602: Microeconomics of the Energy Sector (Graduate Course), Prof. Peter Hartley — Fall 2026
