@@ -43,23 +43,9 @@ Longer-form commentary is moving to a Substack — link coming soon.
 
 ## Blog writing (Spanish)
 
-At the Inter-American Development Bank (IDB), I regularly collaborate with colleagues to write short, policy-oriented pieces on energy issues in Latin America and the Caribbean. Below is a curated list of my posts (in Spanish).
+At the Inter-American Development Bank (IDB), I regularly collaborate with colleagues to write short, policy-oriented pieces on energy issues in Latin America and the Caribbean.
 
 ### Extreme weather events and the electricity sector
 
-- [Ahí viene El Niño: ¿qué nos enseñan las sequías sobre la resiliencia de los sistemas eléctricos?](https://www.iadb.org/es/blog/energia/ahi-viene-el-nino-que-nos-ensenan-las-sequias-sobre-la-resiliencia-de-los-sistemas-electricos)
+- [Here Comes El Niño: What Can Droughts Teach Us About the Resilience of Power Systems?](https://www.iadb.org/en/blog/energy/here-comes-el-nino-what-can-droughts-teach-us-about-resilience-power-systems)
 
-### Electricity losses & sector sustainability
-- [¿Qué hacer para reducir y controlar las pérdidas eléctricas en América Latina y el Caribe?](https://www.iadb.org/es/blog/energia/que-hacer-para-reducir-y-controlar-las-perdidas-electricas-en-america-latina-y-el-caribe)
-- [Pérdidas eléctricas en América Latina y el Caribe: un problema crónico para la sostenibilidad del sector](https://www.iadb.org/es/blog/energia/perdidas-electricas-en-america-latina-y-el-caribe-un-problema-cronico-para-la-sostenibilidad-del)
-
-### Energy transition
-- [Transformar el futuro: Acelerando la transición energética en América Latina y el Caribe](https://www.iadb.org/es/blog/energia/transformar-el-futuro-acelerando-la-transicion-energetica-en-america-latina-y-el-caribe)
-- [Tres costos asociados con la transición energética y qué podemos hacer para mitigarlos](https://blogs.iadb.org/energia/es/tres-costos-asociados-con-la-transicion-energetica-y-que-podemos-hacer-para-mitigarlos/)
-
-### Emissions, growth, and inflation dynamics
-- [Emisiones CO₂ en América Latina y el Caribe: perspectivas regionales](https://www.iadb.org/es/blog/energia/emisiones-co2-en-america-latina-y-el-caribe-perspectivas-regionales)
-- [¿Cómo se relacionan las emisiones CO₂ y el crecimiento económico en América Latina y el Caribe?](https://www.iadb.org/es/blog/energia/como-se-relacionan-las-emisiones-co2-y-el-crecimiento-economico-en-america-latina-y-el-caribe)
-
-### Demand and post-COVID recovery
-- [¿Cómo se comporta la demanda de electricidad de los países de la región durante la recuperación económica pos-covid-19?](https://www.iadb.org/es/blog/energia/como-se-comporta-la-demanda-de-electricidad-de-los-paises-de-la-region-durante-la-recuperacion)
