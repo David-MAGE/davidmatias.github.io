@@ -24,7 +24,7 @@ Longer-form commentary is moving to a Substack — link coming soon.
 
 ---
 
-## Blog writing (
+## Blog writing
 
 At the Inter-American Development Bank (IDB), I regularly collaborate with colleagues to write short, policy-oriented pieces on energy issues in Latin America and the Caribbean.
 
